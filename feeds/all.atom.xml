@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelicans</title><link href="http://mwcraig.github.io/" rel="alternate"></link><link href="http://mwcraig.github.io/feeds/all.atom.xml" rel="self"></link><id>http://mwcraig.github.io/</id><updated>2015-07-29T17:51:00-05:00</updated><entry><title>My first pelican post</title><link href="http://mwcraig.github.io/my-first-pelican-post.html" rel="alternate"></link><updated>2015-07-29T17:51:00-05:00</updated><author><name>Matt Craig</name></author><id>tag:mwcraig.github.io,2015-07-29:my-first-pelican-post.html</id><summary type="html">&lt;p&gt;Hello, world!&lt;/p&gt;
-&lt;p&gt;With some &lt;code&gt;code&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Maybe syntax highlighted?&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;this&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary></entry></feed>
